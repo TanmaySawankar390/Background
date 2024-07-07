@@ -11,7 +11,6 @@ const API_URL = "https://api.remove.bg/v1.0/removebg";
 dotenv.config(process.env.API_KEY);
 const apiKey = process.env.API_KEY;
 
-app.set('view engine', 'ejs');
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: true }));
 
