@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/TanmaySawankar390/Background.git
+    git clone https://github.com/TanmaySawankar390/Pure-BG.git
     cd pure-bg
     ```
 
